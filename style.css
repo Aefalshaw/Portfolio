@@ -1,0 +1,60 @@
+html {
+    background-color: rgb(77, 139, 175);
+    height: 150%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 150%;
+}
+
+#particles-js {
+    background: rgb(77, 139, 175);
+    height: 150%;
+}
+
+.content {
+    position: absolute;
+    padding: 80px;
+    margin: 80px;
+    background: rgba(119, 121, 119, 0.6);
+}
+
+#navtext {
+    font-size: x-large;
+}
+
+.nav-item {
+    padding:  20px;
+}
+
+#bio {
+    width: 30%;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 40px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    font-size: 20px;
+}
+
+#res {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#reslink {
+    text-decoration: underline;
+    color: black;
+}
