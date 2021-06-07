@@ -1,17 +1,17 @@
 html {
     background-color: rgb(77, 139, 175);
-    height: 150%;
+    height: 160%;
 }
 
 body {
     margin: 0;
     padding: 0;
-    height: 150%;
+    height: 160%;
 }
 
 #particles-js {
     background: rgb(77, 139, 175);
-    height: 150%;
+    height: 160%;
 }
 
 .content {
@@ -59,6 +59,6 @@ p {
     color: black;
 }
 
-.social {
+.social, .photos {
     text-align: center;
 }
