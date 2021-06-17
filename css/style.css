@@ -48,10 +48,11 @@ p {
 }
 
 #res {
-    width: 50%;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    width: 80%;
+    height: 1200px;
 }
 
 #reslink {
