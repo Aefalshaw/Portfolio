@@ -1,17 +1,17 @@
 html {
     background-color: rgb(77, 139, 175);
-    height: 160%;
+    height: 170%;
 }
 
 body {
     margin: 0;
     padding: 0;
-    height: 160%;
+    height: 170%;
 }
 
 #particles-js {
     background: rgb(77, 139, 175);
-    height: 160%;
+    height: 170%;
 }
 
 .content {
@@ -68,4 +68,5 @@ iframe {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding: 40px;
 }
